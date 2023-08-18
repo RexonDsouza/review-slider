@@ -1,2 +1,2 @@
 # review-slider
-https://github.com/RexonDsouza/review-slider
+https://rexondsouza.github.io/review-slider/
